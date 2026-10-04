@@ -1,0 +1,93 @@
+{
+  "en": {
+    "WSV_Class_economy": "Economy",
+    "WSV_Class_standard": "Standard",
+    "WSV_Class_rapid": "Rapid",
+    "WSV_Class_express": "Express",
+    "WSV_Class_limited_express": "Limited Express"
+  },
+  "de": {
+    "WSV_Class_economy": "Economy",
+    "WSV_Class_standard": "Standard",
+    "WSV_Class_rapid": "Rapid",
+    "WSV_Class_express": "Express",
+    "WSV_Class_limited_express": "Limited Express"
+  },
+  "es": {
+    "WSV_Class_economy": "Económico",
+    "WSV_Class_standard": "Estándar",
+    "WSV_Class_rapid": "Rápido",
+    "WSV_Class_express": "Expreso",
+    "WSV_Class_limited_express": "Expreso limitado"
+  },
+  "fr": {
+    "WSV_Class_economy": "Économique",
+    "WSV_Class_standard": "Standard",
+    "WSV_Class_rapid": "Rapide",
+    "WSV_Class_express": "Express",
+    "WSV_Class_limited_express": "Super express"
+  },
+  "it": {
+    "WSV_Class_economy": "Economico",
+    "WSV_Class_standard": "Standard",
+    "WSV_Class_rapid": "Rapido",
+    "WSV_Class_express": "Espresso",
+    "WSV_Class_limited_express": "Super espresso"
+  },
+  "ja": {
+    "WSV_Class_economy": "エコノミー",
+    "WSV_Class_standard": "標準",
+    "WSV_Class_rapid": "快速",
+    "WSV_Class_express": "急行",
+    "WSV_Class_limited_express": "特急"
+  },
+  "ko": {
+    "WSV_Class_economy": "절약형",
+    "WSV_Class_standard": "표준",
+    "WSV_Class_rapid": "쾌속",
+    "WSV_Class_express": "급행",
+    "WSV_Class_limited_express": "특급"
+  },
+  "nl": {
+    "WSV_Class_economy": "Voordelig",
+    "WSV_Class_standard": "Standaard",
+    "WSV_Class_rapid": "Snel",
+    "WSV_Class_express": "Express",
+    "WSV_Class_limited_express": "Superexpress"
+  },
+  "pl": {
+    "WSV_Class_economy": "Ekonomiczny",
+    "WSV_Class_standard": "Standardowy",
+    "WSV_Class_rapid": "Przyspieszony",
+    "WSV_Class_express": "Ekspresowy",
+    "WSV_Class_limited_express": "Superekspres"
+  },
+  "pt_BR": {
+    "WSV_Class_economy": "Econômico",
+    "WSV_Class_standard": "Padrão",
+    "WSV_Class_rapid": "Rápido",
+    "WSV_Class_express": "Expresso",
+    "WSV_Class_limited_express": "Expresso limitado"
+  },
+  "ru": {
+    "WSV_Class_economy": "Эконом",
+    "WSV_Class_standard": "Стандарт",
+    "WSV_Class_rapid": "Скорый",
+    "WSV_Class_express": "Экспресс",
+    "WSV_Class_limited_express": "Суперэкспресс"
+  },
+  "zh_CN": {
+    "WSV_Class_economy": "经济型",
+    "WSV_Class_standard": "标准型",
+    "WSV_Class_rapid": "快速型",
+    "WSV_Class_express": "特快型",
+    "WSV_Class_limited_express": "直达特快型"
+  },
+  "zh_TW": {
+    "WSV_Class_economy": "經濟型",
+    "WSV_Class_standard": "標準型",
+    "WSV_Class_rapid": "快速型",
+    "WSV_Class_express": "急行型",
+    "WSV_Class_limited_express": "特急型"
+  }
+}

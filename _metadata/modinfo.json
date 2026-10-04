@@ -1,0 +1,16 @@
+{
+  "authors": [
+    {
+      "name": "Jean_Luc_Picard",
+      "role": "CREATOR"
+    }
+  ],
+  "description": "Adds five speed variants to every independently purchasable vanilla passenger and freight wagon, grouped together in the depot:\n\nEconomy (-20 km/h) · Standard (original speed) · Rapid (+20 km/h) · Express (+40 km/h) · Limited Express (+60 km/h)\n\nSlower variants cost less to buy and maintain; faster ones cost more. Appearance and capacity stay the same. Urban Games Early Wagons is supported automatically when active, but is not required.\n\nInspired by Vanilla Wagon Speed Variants for Transport Fever 2 by nary_believe.",
+  "name": "Wagon Speed Variants",
+  "summary": "Five speed and cost variants for vanilla wagons. Optional Early Wagons support.",
+  "tags": [
+    "Script Mod",
+    "Wagon"
+  ],
+  "url": "https://github.com/midnighter90/TF3_WagonSpeedVariants"
+}

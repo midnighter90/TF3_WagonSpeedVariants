@@ -1,0 +1,12 @@
+{
+  "modId": "jean_luc_picard_wagon_speed_variants",
+  "revision": 9,
+  "visible": true,
+  "cosmetic": false,
+  "severityAdd": "None",
+  "severityRemove": "Warning",
+  "dependencies": [],
+  "postRunScript": {
+    "fileName": "jean_luc_picard_wagon_speed_variants::/mod.script@postRunFn"
+  }
+}
