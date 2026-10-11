@@ -7,6 +7,7 @@ local PREFIX = MOD_ID .. "::/generated/"
 local SOURCES = {
     [""] = true,
     ug_legacy_waggon_1850 = true,
+    ug_legacy_rail_asia_ed = true,
     urbangames_preorder_pack = true,
     urbangames_deluxe_upgrade_pack = true,
 }
@@ -198,7 +199,7 @@ function mod.postRunFn()
         end
     end
     debugPrint(string.format(
-        "[Wagon Speed Variants r9] %d base + %d Early Wagons + %d DLC wagons; %d additional variants. Original wagon IDs and UI updates verified; localized classes; icons reference source packages. Early Wagons is optional.",
+        "[Wagon Speed Variants r10] %d base + %d Early Wagons + %d DLC wagons; %d additional variants. Original wagon IDs and UI updates verified; localized classes; icons reference source packages. Early Wagons and Classic Asian Locomotives and Wagons are optional.",
         counts.base, counts.early, counts.dlc, added))
 end
 

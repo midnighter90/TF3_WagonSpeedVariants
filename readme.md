@@ -10,7 +10,7 @@ Get the published mod from [mod.io](https://mod.io/g/transportfever3/m/wagon-spe
 or the in-game Mod Hub.
 
 This repository uses a new mod and vehicle ID. It is not a drop-in replacement
-for revision 8 in existing saves. Keep the published mod.io version for those
+for the mod.io release in existing saves. Keep the published mod.io version for those
 saves, and do not enable both versions together.
 
 ## What It Does
@@ -26,7 +26,8 @@ Each independently purchasable vanilla wagon has five variants, grouped in the d
 Slower variants cost less to buy and maintain; faster variants cost more.
 Appearance and capacity stay the same. Speeds use the player's selected display unit.
 
-Urban Games' **Early Wagons** is supported automatically when active, but is not required.
+Urban Games' **Early Wagons** and **Classic Asian Locomotives and Wagons**
+(including China Type 25) are supported automatically when active. Neither is required.
 
 ## Installation
 
@@ -69,9 +70,10 @@ No third-party software libraries, executables or vehicle asset files are bundle
   not authored by this project and remains subject to its rightsholders' terms;
   no ownership is claimed.
 - `content/mod.script.lua`: references installed game resources and optional
-  [Early Wagons](https://mod.io/g/transportfever3/m/early-wagons) resources from Urban
-  Games. Those assets are not redistributed. No third-party software license file
-  is applicable.
+  [Early Wagons](https://mod.io/g/transportfever3/m/early-wagons) and
+  [Classic Asian Locomotives and Wagons](https://mod.io/g/transportfever3/m/classic-asian-locomotives-and-wagons)
+  resources from Urban Games. Those assets are not redistributed. No third-party
+  software license file is applicable.
 
 Transport Fever 3, its engine and game assets belong to their respective owners.
 This mod is unofficial and is not affiliated with, endorsed by, sponsored by or
